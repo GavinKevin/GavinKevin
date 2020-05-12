@@ -1,0 +1,28 @@
+
+body {
+    background-image: url("houseWarming2.jpg");
+}
+
+h1 {
+    color: red;
+}
+h2 {
+    font-size: 3rem;
+    color: black;
+}
+
+.btn-primary {
+    background-color: #4169E1;
+    border-color: #4169E1;
+  }
+  
+  .btn-primary:hover {
+    background-color: #4169E1;;
+    border-color:#4169E1;;
+    border-width: 3px; 
+  }
+
+  .outline {
+    font-size: 1.3em;
+    color: blue;
+  }
